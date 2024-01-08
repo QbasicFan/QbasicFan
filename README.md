@@ -3,7 +3,7 @@
 Full-stack web developer
 <a href="https://www.philserme.com/">Phil Serme🦁</a>
 <hr>
-# Core skills 
+<p align="center"># Core skills</p> 
 Software engineering,
 Python web frameworks (Django, Flask, RapidAPI),
 Php web frameworks (Laravel)
